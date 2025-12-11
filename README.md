@@ -1,4 +1,4 @@
-# Why-I-Use-Borland-C-Builder-for-Programs. I also use an XP computer for the programs. This is because Micrsoft, in their infinite wisdom, decided not to support help files. Borlnad C++ Builder has a wonderful help feature, which is super helpful for developing programs. 
+# Why-I-Use-Borland-C-Builder-for-Programs. I also use an XP computer for the programs. This is because Micrsoft, in their infinite wisdom, decided not to support help files. Borland C++ Builder has a wonderful help feature, which is super helpful for developing programs. 
 I tried the Embarkadero C++ Builder, and it was too cumbersome and touchy to use. It uses the latest C++ standard, which is almost unuseable because it uses wide characters and essentally got rid of AnsiStrings. They have a free Community edition, but they may not let you join. Also, the help system is cumbersome and not very useful.
 Here are my take on the advantages of using Borland C++ Builder on an XP machine:
 1. You can download an older version free.
